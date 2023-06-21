@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin ISHIMWE</h1>
 <h3 align="center">I am creative Fullstack developer and Graphics(UI/UX designer, product designer, Blanding and identity designer) from Kigali, Rwanda. I am working on web development, desktop apps development and also some Figma, Adobe photoshopand Adobe Illustrator designs.</h3>
-<img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="Codes never stop looping" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusish&label=Profile%20views&color=0e75b6&style=flat" alt="jusish" /> </p>
