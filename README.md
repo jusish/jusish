@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin ISHIMWE</h1>
-<h3 align="center">I am creative Fullstack developer and Graphics(UI/UX designer, product designer, Blanding and identity designer) from Kigali, Rwanda. I am working on web development, desktop apps development and also some Figma, Adobe photoshopand Adobe Illustrator designs.</h3>
+<h3 align="center">I am an experienced Rwandan developer proficient in a diverse range of technologies including React.js, JavaScript, Node.js, C, C++, Java, Next.js, TypeScript, Angular.js, and adept in utilizing databases such as PostgreSQL, MongoDB, and MySQL. With over 2 years of hands-on experience, I bring a strong foundation in front-end and back-end development, coupled with expertise in UI/UX design using Figma. Passionate about creating innovative solutions and contributing to impactful projects, I thrive in collaborative environments where I can leverage my skills to drive results and make a meaningful impact.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusish&label=Profile%20views&color=0e75b6&style=flat" alt="jusish" /> </p>
