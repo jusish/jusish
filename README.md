@@ -18,15 +18,6 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/ishimwejustin67" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shemaeric10" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
 ## By the way here are some of my statistics 🚀
 ##### `Most Of Internal projects for some companies are not public on Github`
 ![Justin's github stats](https://github-readme-stats.vercel.app/api?username=jusish&show_icons=true&theme=tokyonight)
