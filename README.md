@@ -13,7 +13,7 @@
 - 🌐 📱 💡: Diverse range of projects spanning web, mobile, and algorithm development.
 - 🤓: Curious mind, always exploring new tech trends and tools.
 - 🗣️: Active tech community member: engagement, forums, and tech talks
-- 🤔: I’m currently open for a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1zoqh8j8wysd1b77P6ik1LAEG58-JevmA/view?usp=sharing).
+- 🤔: I’m currently open for a new `job opportunity`.
 - 📧: Contact me: `+250787415913` or `ishimwejustin67@gmai.com`.
 
 <br>
@@ -22,12 +22,6 @@
 <p align="left">
   <a href="https://x.com/ishimwejustin67" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shemaeric10" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ishimwe-justin-a67b85268/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shemaeric" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_justi_in/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shemaeric01" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
